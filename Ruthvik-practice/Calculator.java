@@ -9,6 +9,10 @@ public class Calculator{
             case '*':
                 return a * b;
             case '/':
+                if(b == 0){
+                    System.out.println("Error : Division by zero is not allowed.");
+                    return 0;
+                }
                 return a / b;
             case '%':
                 return a % b;
