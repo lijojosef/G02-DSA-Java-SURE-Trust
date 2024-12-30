@@ -1,5 +1,5 @@
 import java.util.*;
-public class check_upper_lower
+public class Check_Upper_Lower
 {
     public static void main(String[] args)
     {
