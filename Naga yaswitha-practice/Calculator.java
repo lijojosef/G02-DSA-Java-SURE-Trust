@@ -9,8 +9,17 @@ public class Calculator{
             case '*':
                 return a * b;
             case '/':
+                if(b == 0){
+                    System.out.println("Error : division by zero is not allowed.");
+                    return 0;
+                }
+
                 return a / b;
             case '%':
+                if(b==0){
+                    System.out.println("Error : modulo by zero is not allowed.");
+                    return 0;
+                 }
                 return a % b;
             default:
                 System.out.println("Inavlid input try again!");
