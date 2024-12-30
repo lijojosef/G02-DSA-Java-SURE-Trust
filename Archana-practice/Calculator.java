@@ -20,7 +20,8 @@ public class Calculator {
             System.out.println(num1*num2);
             break;
             case '/':
-            System.out.println(num1/num2);
+            if(num2==0) System.out.println("please enter the denominator as non zero value");
+            else System.out.println(num1/num2);
             break;
             case '%':
             System.out.println(num1%num2);
