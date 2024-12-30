@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-class conditionalstatements
+class Conditional_Statements
 {
     public static void main(String[] args)
     {
