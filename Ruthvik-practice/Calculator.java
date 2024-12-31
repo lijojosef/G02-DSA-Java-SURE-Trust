@@ -15,6 +15,10 @@ public class Calculator{
                 }
                 return a / b;
             case '%':
+                if(b == 0){
+                    System.out.println("Error : Modulo by zero is not allowed.");
+                    return 0;
+                }
                 return a % b;
             default:
                 System.out.println("Inavlid input try again!");
