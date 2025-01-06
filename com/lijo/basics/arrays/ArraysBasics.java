@@ -1,4 +1,4 @@
-package com.lijo.basics.functions;
+package com.lijo.basics.arrays;
 
 public class ArraysBasics {
     public static void main(String[] args) {
