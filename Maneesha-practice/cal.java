@@ -2,6 +2,9 @@ import java.util.Scanner;
 /*   bjsgduqwjkdv*/
 
 
+
+
+
 public class cal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
