@@ -1,4 +1,6 @@
 import java.util.Scanner;
+/*   bjsgduqwjkdv*/
+
 
 public class cal {
     public static void main(String[] args) {
