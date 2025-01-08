@@ -1,4 +1,4 @@
-package Tharani_Dharan;
+package Tharani_Dharan.Workout;
 
 import java.util.Scanner;
 
