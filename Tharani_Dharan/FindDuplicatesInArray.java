@@ -36,7 +36,7 @@ public class FindDuplicatesInArray {
             arr[nums[i]]++;
         }
 
-        List<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<>();
 
         for(int i=0;i<arr.length;i++){
             if(arr[i]==2){

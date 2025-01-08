@@ -25,6 +25,6 @@ public class UniqueOccurances {
     public static void main(String[] args) {
         int[] arr = {1,2,2,1,1,3};
         boolean result = uniqueOccurrences(arr);
-        System.out.println(result);
+        System.out.println("The answer is : "+result);
     }
 }
