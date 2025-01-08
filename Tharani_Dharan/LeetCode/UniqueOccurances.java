@@ -1,4 +1,4 @@
-package Tharani_Dharan;
+package Tharani_Dharan.LeetCode;
 
 import java.util.HashMap;
 import java.util.HashSet;
