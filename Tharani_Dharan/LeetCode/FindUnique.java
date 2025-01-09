@@ -1,5 +1,7 @@
 package Tharani_Dharan.LeetCode;
 
+import java.util.HashMap;
+
 public class FindUnique {
 
     public static int findUnique(int[] arr){
